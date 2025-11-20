@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **react.Js, node.Js**
+- 💬 Ask me about **Web Development Related Any Queries**
 
 - 📫 How to reach me **firozalmahmud671@gmail.com**
 
